@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": 100001,
+      "name": "React Advance",
+      "price": 29,
+      "in_stock": true
+    },
+    {
+      "id": 100002,
+      "name": "Python Advance",
+      "price": 29,
+      "in_stock": true
+    },
+    {
+      "id": 100003,
+      "name": "Node js Advance",
+      "price": 29,
+      "in_stock": true
+    },
+    {
+      "id": 100004,
+      "name": "Backend in Advance",
+      "price": 29,
+      "in_stock": true
+    }
+  ]
+}
